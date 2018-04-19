@@ -1,0 +1,28 @@
+---
+title:  Introduction
+subtitle: So you know what this page is for
+author: "Edrick"
+avatar: "img/authors/edrick.jpg"
+image: "img/a.jpg"
+date: "2016-08-18"
+---
+
+### So what's the story?
+
+
+During my third year of studies as a Systems Design Engineering student at the
+University of Waterloo, I decided to trek to the wonderful land of Sweden for an
+exchange term. More specifically, I attended a 350 year old institution in the
+medieval city of Lund. I remember on the first day of orientation, the coordinator say:
+
+> You'll either fall in love with the city or with someone here, and you will
+end up staying here longer than you think
+
+which I thought was pretty funny at first, but I ended up extending my stay for
+another term. To be honest, I knew nothing about Sweden aside from IKEA and ABBA,
+but going this exchange has changed my perspective in life and gave me a great
+opportunity to learn about Scandinavian culture.
+
+This website consists of random tidbits of information, insight, or absolutely
+useless facts that I have accumulated in my 10 months in Lund. Hopefully, you as
+the reader will find interest and potentially some value in my rambling.
