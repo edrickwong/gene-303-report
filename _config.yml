@@ -5,4 +5,4 @@ author: Edrick Wong
 baseurl: "/gene-303-report" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
-paginate: 6
+paginate: 9

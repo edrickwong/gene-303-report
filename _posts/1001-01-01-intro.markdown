@@ -1,28 +1,36 @@
 ---
-title:  Introduction
-subtitle: So you know what this page is for
+title:  The Introduction
+subtitle: So you know what this page is.
 author: "Edrick"
 avatar: "img/authors/edrick.jpg"
 image: "img/a.jpg"
-date: "2016-08-18"
+date: "2016-08-15"
 ---
 
-### So what's the story?
+### Who am I?
+
+According to my [LinkedIn](https://www.linkedin.com/in/edrickwong/), my name is Edrick and I'm a student at the University of Waterloo (although at the time of reading, I've probably graduated, hopefully...) I come from the land of Drake and Raptors, although I've spent a decent amount of time on the west coast living out the [Waterloo Dream](https://stephenholiday.com/Unofficial-Waterloo-USA-Intern-Guide/).
 
 
-During my third year of studies as a Systems Design Engineering student at the
-University of Waterloo, I decided to trek to the wonderful land of Sweden for an
-exchange term. More specifically, I attended a 350 year old institution in the
-medieval city of Lund. I remember on the first day of orientation, the coordinator say:
+### What's the story?
+
+Realizing that I haven't seen much of the world aside from Engeering 5, I decided to sign up for exchange. Being the lazy person I am, I decided to just sign up for whatever my friend did and let her handle the logistics. Third year came along and I found out that I was going to a place called [Lund University](https://www.lunduniversity.lu.se/), a 350 year old institution in the middle of the medieval city of, well, Lund.
+
+I remember on the first day of orientation, the coordinator say:
 
 > You'll either fall in love with the city or with someone here, and you will
 end up staying here longer than you think
 
-which I thought was pretty funny at first, but I ended up extending my stay for
-another term. To be honest, I knew nothing about Sweden aside from IKEA and ABBA,
+which I thought was pretty funny at first, but I ended up estaying in Sweden two terms. To be quite honest, I knew nothing about Sweden aside from IKEA and ABBA,
 but going this exchange has changed my perspective in life and gave me a great
-opportunity to learn about Scandinavian culture.
+opportunity ~~ culture myself ~~ to learn about Scandinavian culture.
 
-This website consists of random tidbits of information, insight, or absolutely
-useless facts that I have accumulated in my 10 months in Lund. Hopefully, you as
-the reader will find interest and potentially some value in my rambling.
+### So what's this page?
+
+Formally, I am supposed to write a report for my [International Studies Option](https://uwaterloo.ca/engineering/current-undergraduate-students/international-exchange/exchange-waterloo/international-studies-engineering-ise-option), but being a little extra I decided to make a website instead.
+
+Informally, this website consists of random tidbits of information, insight, and some useless facts that I have accumulated in my 10 months in Lund. Hopefully, you as the reader will find interest and potentially some value in my ramblings.
+
+### Acknowledgement
+
+I would like to thank Julia for helping me through all the logistics and [Grace](https://graciouswho.com) for inspiring this website. I would also like to thank all the great people at the Waterloo International Office and the Lund International Office for dealing with me and making the whole thing possible.
