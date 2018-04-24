@@ -238,15 +238,6 @@ Probably one of the odder museums I've been it, Kulturen is an open air museam w
 #### Rinnebacksravinen
 A nature area where you can see cows.
 
-
-## The Student Life
-
-
-## The Culture
-
-## The Language
-
-
 ## The Academics
 The way courses are held in Lund is quite different than in Waterloo, especially for Engineering students. The information I am going to include here applies mostly to Lund's Faculty of Engineering, which is called Lunds Tekniska Högskola or LTH for short.
 
@@ -264,6 +255,7 @@ An interesting note about exams at Lund is that they almost always allocate five
 Another think to keep in mind is that courses are either graded on a scale of 1 to 5 (where 3+ is a pass) or courses are pass-fail. This generally works in your favour.
 
 ### Course Selection
+
 There really isn't much to it, although one of the major things you will need to do is figure out scheduling and equivalent courses. If you are lucky, you can holler at an upper year who has been and ask what courses they took (as well as for any other advice they can give you) and base your decision off of that. 
 
 You can find a list of courses available for exchange students [here](https://www.lunduniversity.lu.se/international-admissions/exchange-study-abroad/exchange-studies/find-exchange-courses). You will notice that Lund offers a very wide variety of courses, so take this opportunity to take courses that you might not otherwise be able to. Specially for exchange students, they have courses called [Special Area Studies](https://www.lunduniversity.lu.se/international-admissions/exchange-study-abroad/exchange-studies/special-area-studies) which covers Scandanavian and European topics. These courses are also very applicable to an International Studies Option.
@@ -288,5 +280,37 @@ For those of you who are in Systems, there's a couple of things to keep in mind.
 Another thing to keep in mind is that [FMNN01](http://ctr.maths.lu.se/na/courses/FMNN01/) could potentially be an equivalent to SYDE 312. However due to unforseen circumstances, I was unable to finish the course and thus cannot confirm if this course would have been accepted by the department. On the side though, the course is great and really help you develop an appreciation for linear algebra. That said, it is a 100% group oral final, and it is not an easy course.
 
 
+## The Student Life
+Being an engineering exchange student, there are two major things to keep in mind about student life.
 
+### LTH Guilds
+LTH is the engineering department at Lund, and is divided into guilds. Each guild represents a different faculty of engineering:
+
+- **F** Students of Engineering Nanoscience, Engineering  Mathematics and Engineering Physics
+- **E** Students of Electrical Engineering and Biomedical Engineering
+- **M** Students of  Mechanical Engineering and Mechanical Engineering and Technical Design
+- **V** Students of Civil Engineering, Surveying and Fire Safety Engineering/Risk Management
+- **A** Students of  Architecture and Industrial Design
+- **K** Students of Chemical Engineering/Biotechnology
+- **D** Students of Information and Communication Systems  Engineering and Computer Science
+- **Dokt** PhD Students from all programs at the Faculty of Engineering
+- **ING** Students of Engineering at campus Helsingborg 
+- **I** Students of  Industrial Engineering and Management 
+- **W** Students of Environmental Engineering
+
+And you thought Waterloo had a lot of disciplines. Fire Engineering is by far the coolest one Lund has.
+
+With most Waterloo disciplines, there is an equivalent at Lund and that is the guild you will be assigned to. Being the way Systems Design is, the guild you guy placed in depends on the courses you are taking. I was lucky enough to be placed the [F-Guild](https://fsektionen.se/), which is one of the bigger guilds with a lot of international mentors.
+
+The guild you are in doesn't really affect your academics too many ways, but is in integral part of the orientation experience if you so choose to do an exchange term in the Fall.
+
+#### Nollning
+
+Nollning is the orientation "week" that LTH students go through. And when I say week, I really mean like 5 weeks. It's a crazy, high production value month of events, bonding, and 
+
+
+## The Culture
+
+
+## The Language
 
