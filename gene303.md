@@ -283,6 +283,10 @@ Another thing to keep in mind is that [FMNN01](http://ctr.maths.lu.se/na/courses
 ## The Student Life
 Being an engineering exchange student, there are two major things to keep in mind about student life.
 
+### Academic Time
+
+Probably one of the weirder aspects of student life, the times written on schedule and events is not the real time you should show up.  Keeping with ancient habits where students relied on the church bell to tell time, they were given 15 minutes after the chime to show up to their class. In its modern modern manifestation, there is simple 15 and double 15. During weekdays from 7 a.m. to 5 p.m., simple 15 applies and  the start time is 15 minutes later than written. Any other time, double 15 applies and events start 30 minutes later than written. One adjustment factor to this is called prick (period), which is modified to the academic time rules. For every period after the time, you take off 15 minutes. Ontop of this, if times are written with a ':' or the event is an exam or lab, generally they start on time.
+
 ### LTH Guilds
 LTH is the engineering department at Lund, and is divided into guilds. Each guild represents a different faculty of engineering:
 
@@ -306,7 +310,28 @@ The guild you are in doesn't really affect your academics too many ways, but is 
 
 #### Nollning
 
-Nollning is the orientation "week" that LTH students go through. And when I say week, I really mean like 5 weeks. It's a crazy, high production value month of events, bonding, and 
+Nollning is the orientation "week" that LTH students go through. And when I say week, I really mean like ** 5** weeks. During this month and a bit, there are a plethora of events, ranging from competitions to parties to jumping in lakes to sittnings (fancy Swedish dinner party) to secret camps. You start off as a "nolla" (zero) at the beginning and you graduate into being a first year student.
+
+Each guild has its own seperate themes for Nollning; mine was Medieval Times. Like all orientation events, there is a ladder important. The events are run by the Før (First) who serve a similar purpose to EDCOM. They too dress up and hold ultimate power (although the Før are quite nice if you get to know them). However, you will be spending most of your time with your Fadder (Mentor). They're not only there to lead you through events, but they also serve as great guides to the school, the city, and overall Swedish culture. By the end of Nollning, they'll not only your mentors but also your good friends. They are most noticeable with their tassel hat, which brings us to the next mini section: Clothing!
+
+*small note, as I found out later Før and Fadder are actually supposed to be spelt with a "Ph" instead of an "F", but because I was in the F-Guild, it's kind of punny.
+
+##### Clothing
+
+There are two pieces of clothing that you will be very accusomed to during orientation: the teknolog cap and the overalls.
+
+The teknolog cap is a tassle hat that is very specific to engineering student and tells a lot about the person wearing it. As a nolla, you won't have one until the final graduation party. The tassel on each cap holds spegats (they're kind of like woggles that scouts have on their neckercheif). As an engineering student, you can add one to the tassel for each year you have been in school. The spegat have different colours to represent different things, such as involvement in sports, student council, or specialty programs. 
+
+An interesting note about the spegate is that it's placement on the tassel implies different things. In a party setting, the higher the spegat is on the tassel, the more desperate you are in bringing someone home. If you are very desperate, you can choose to throw the tassel over your cap. This can be done humourously to your friends. On the opposite end of the spectrum, if you are in a relationship, your partner will tie a know on the string (to keep you from moving the spegat). The lower the know is on the tassel, the more serious the relationship. Once you are done studying, you can put a lock in the tassel to prevent more spegat from being added, signifying your end of studies. The cap also comes in to colours, white and blue. More specifically, you put a blue cover over the cap during winter months.
+
+The second thing you will be very accustomed to is the overalls. In Waterloo, we get coloured t-shirts, but in Lund, we get full blown coveralls. Each guild has their own colour, which makes it very obvious what guild you are in, especially since you are expected to wear them to most events. You can also customize it with your own patches and stuff.  For native students, this is something they keep throughout their years for different guild events.
+
+An interesting event that takes place is the trading event, where you snip off strips of leg from the overalls and trade it with other guilds. You collect strips to frankenstein back a new leg with all the [other colours](https://en.wikipedia.org/wiki/List_of_student_boilersuit_colours#Faculty_of_Engineering_(LTH),_Lund_University). The most elusive is the archectural blazer arm piece and fire engineering leg piece. The reason for this is that there are not a lot of archecture students and rumour says fire engineer's coveralls are fireproof and they actually need it for their courses. 
+
+
+
+
+ It's a crazy, high production value month of events, bunding, and fun.
 
 
 ## The Culture
