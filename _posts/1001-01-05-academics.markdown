@@ -3,7 +3,7 @@ title:  The Academics
 subtitle: Because technically supposed to be in school
 author: "Edrick"
 avatar: "img/authors/edrick.jpg"
-image: "img/c.jpg"
+image: "img/d.jpg"
 date:   2016-08-11 12:12:12
 ---
 
