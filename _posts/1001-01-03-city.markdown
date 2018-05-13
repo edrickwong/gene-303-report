@@ -12,15 +12,15 @@ With the cobblestone roads, narrow streets, and a big Church, Lund embodies the 
 ### Getting around
 
 #### Bikes
-Swedes really like their bikes, and in this university town, it is quite evident that this is the most preferred mode of transportation. Because travelling on bikes is such a fundamental part of Swedish culture, the infrasture is more accomodating for bikers compared to Canadian cities.
+Swedes really like their bikes, and in this university town, it is quite evident that this is the most preferred mode of transportation. Because traveling on bikes is such a fundamental part of Swedish culture, the infrastructure is more accommodating for bikers compared to Canadian cities.
 
-What this means for you is that you should probably get a bike; although it isn't 100% neceesary it will make life a lot of more convenient. Here are some things you should keep in mind:
+What this means for you is that you should probably get a bike; although it isn't 100% necessary it will make life a lot of more convenient. Here are some things you should keep in mind:
 
 - A bike is called a **cykel** in Swedish.
-- Bikes are not cheap, especially in Lund because of supply and demand. Bikes will be run you anywhere from 600:- to 1200:- onwards. If you are willing to quest, you could hop my Malmö and potentially get a nicer bike for roughly the same price.
+- Bikes are not cheap, especially in Lund because of supply and demand. Bikes will be run you anywhere from 600:- to 1200:- onwards. If you are willing to quest, you could hop by Malmö and potentially get a nicer bike for roughly the same price.
 - You will legally need a front and back lights as well as a bell. You can pick them up for cheap at TGR. It is also advisable to get a good bike lock as bike theft is very common. For this, I would suggest going to a bike store and getting a proper chain. Some bikes will come with a built-in rear wheel lock.
 - You *should* get a helmet but I think you will make your own observations about this. Remember, safety first!
-- Bikes in Sweden have a serial number that is bounded to the owner, so if you buy used bikes, make sure you get the receipt and proper transfer of ownership.
+- Bikes in Sweden have a serial number that is registered to the owner, so if you buy used bikes, make sure you get the receipt and proper transfer of ownership.
 - Within Lund, there are a number of places you can look for bikes:
     - Easiest is the Lund Facebook [buy/sell](https://www.facebook.com/groups/sblund/) pages
     - There are a number of bike shops around the city. An interesting one is [Lundaböcker](http://www.lundabocker.se/) which is normally a book store, but they also sell used bikes during special times of the year. Why I mention them is that they will also buy your bike back.
@@ -40,7 +40,7 @@ I think that they also have an app now that you can buy tickets.
 
 #### Train
 
-Depending on where you are going, there are different trains systems that you will need to be aware of. If you're travelling to a different city in Sweden, you'll most likely be using the [SJ](https://www.sj.se/en/home.html) train system. If you are going to the airport, you can refer to the arrival section.
+Depending on where you are going, there are different trains systems that you will need to be aware of. If you're travelling to a different city in Sweden, you'll most likely be using the [SJ](https://www.sj.se/en/home.html) train system. If you are going to the airport, you can refer to the arrival section in The Logistics.
 
 #### Cars
 Pretty uncommon and to be honest Lund is not the best city to drive around in. Parking is expensive.
@@ -52,8 +52,6 @@ There is supposed to be a tram that will open in 2019.
 #### Everyday things
 [Flying Tiger or TGR](https://se.flyingtiger.com/) is a great place to get everyday items. This is probably the closest thing to a dollarstore you can find.
 
-[Erikshjälpen](https://erikshjalpen.se/store/lund-city/) is a second hand store where you can pick up a lot of random stuff. Definitely go take a look, you never know what you'll find. There are also a bunch of other second hand stores along the same street.
-
 If you need any computer related things, your best bet is probably [Teknik Magasinet](https://www.teknikmagasinet.se/).
 
 If you're into sports, you can get equipment at the [Stadium](https://www.stadium.se/) in downtown Lund.
@@ -64,11 +62,11 @@ If you're into sports, you can get equipment at the [Stadium](https://www.stadiu
 ##### Normal Supermarkets
 There are a couple of different supermarket chains around the city, each with their own unique specialties.
 
-There most common supermarket is [ICA](https://www.ica.se/) There's a bunch of them around, including next to the train station, next to Sparta, and one up in Norra Faladen. The products are generally decently priced, although the prepackaged vegetables can be a little bit on the higher end.
+The most common supermarket is [ICA](https://www.ica.se/). There's a bunch of them around, including next to the train station, next to Sparta, and one up in Norra Faladen. The products are generally decently priced, although the prepackaged vegetables can be a little bit on the higher end.
 
 The second worthy mention is [Willy:s](https://www.willys.se/butik/2176). Unfortunately, there's only one in Lund, but it is definitely worth the trek. The inventory is roughly the same as ICA, with the except that they have 2 kg bags of pasta which definitely will last you a very long time. They also have their own El Dorado branded items, which is most cases is a good alternative for ther brand name equivalent.
 
-There is also a [Lidl](https://www.lidl.se/sv/index.htm) and [Coop](https://www.coop.se/butiker-erbjudanden/stora-coop/stora-coop-lund/) in Lund. You can get big packs of random things at Lidl, and they they also sell random as-seen-on-tv things in the store. If you ever need to buy bulk things for a party, Lidl is the way to go. Coop is also another big supermarket, although it tends to be a little bit more pricey.
+There is also a [Lidl](https://www.lidl.se/sv/index.htm) and [Coop](https://www.coop.se/butiker-erbjudanden/stora-coop/stora-coop-lund/) in Lund. You can get big packs of random things at Lidl, and they also sell random as-seen-on-tv things in the store. If you ever need to buy bulk things for a party, Lidl is the way to go. Coop is also another big supermarket, although it tends to be a little bit more pricey.
 
 ##### Asian Specialty Stores
 If one is attentive enough to the whispers that go on, one might come across the underappreciated Asian specialty stores. There are two stores in particular that you should check out: [Asien Livs](http://www.asienlivs-travel.se/) and [Sandra Livs](http://www.lundcity.se/butik/sandralivs/). Both have miscellaneous asian specialty ingredients.
@@ -140,7 +138,7 @@ Almost all the buildings in Lund campus have something cool about them. Ones to 
 - AF Borgen: a castle
 - IKDC: an IKEA building
 - Observatory: if you ask really nicely they'll let you look at the stars
-- There's a bunch of museums but I'm too lazy to list them all here.
+- There's a bunch of [museums](https://www.lunduniversity.lu.se/about/faculties-departments-centres/museums-and-collections).
 
 #### Botanical Gardens
 There's a lot of cool plants and good place to catch Pokémon.

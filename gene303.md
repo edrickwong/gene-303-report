@@ -281,7 +281,7 @@ Another thing to keep in mind is that [FMNN01](http://ctr.maths.lu.se/na/courses
 
 
 ## The Student Life
-Being an engineering exchange student, there are two major things to keep in mind about student life.
+Being an engineering exchange student, there are a couple things to keep in mind about student life.
 
 ### Academic Time
 
@@ -310,7 +310,7 @@ The guild you are in doesn't really affect your academics too many ways, but is 
 
 #### Nollning
 
-Nollning is the orientation "week" that LTH students go through. And when I say week, I really mean like ** 5** weeks. During this month and a bit, there are a plethora of events, ranging from competitions to parties to jumping in lakes to sittnings (fancy Swedish dinner party) to secret camps. You start off as a "nolla" (zero) at the beginning and you graduate into being a first year student.
+Nollning is the orientation "week" that LTH students go through. And when I say week, I really mean like **5** weeks. During this month and a bit, there are a plethora of events, ranging from competitions to parties to jumping in lakes to sittnings (fancy Swedish dinner party) to secret camps. You start off as a "nolla" (zero) at the beginning and you graduate into being a first year student.
 
 Each guild has its own seperate themes for Nollning; mine was Medieval Times. Like all orientation events, there is a ladder important. The events are run by the Før (First) who serve a similar purpose to EDCOM. They too dress up and hold ultimate power (although the Før are quite nice if you get to know them). However, you will be spending most of your time with your Fadder (Mentor). They're not only there to lead you through events, but they also serve as great guides to the school, the city, and overall Swedish culture. By the end of Nollning, they'll not only your mentors but also your good friends. They are most noticeable with their tassel hat, which brings us to the next mini section: Clothing!
 
@@ -326,12 +326,49 @@ An interesting note about the spegate is that it's placement on the tassel impli
 
 The second thing you will be very accustomed to is the overalls. In Waterloo, we get coloured t-shirts, but in Lund, we get full blown coveralls. Each guild has their own colour, which makes it very obvious what guild you are in, especially since you are expected to wear them to most events. You can also customize it with your own patches and stuff.  For native students, this is something they keep throughout their years for different guild events.
 
-An interesting event that takes place is the trading event, where you snip off strips of leg from the overalls and trade it with other guilds. You collect strips to frankenstein back a new leg with all the [other colours](https://en.wikipedia.org/wiki/List_of_student_boilersuit_colours#Faculty_of_Engineering_(LTH),_Lund_University). The most elusive is the archectural blazer arm piece and fire engineering leg piece. The reason for this is that there are not a lot of archecture students and rumour says fire engineer's coveralls are fireproof and they actually need it for their courses. 
+An interesting event that takes place is the trading event, where you snip off strips of leg from the overalls and trade it with other guilds. You collect strips to frankenstein back a new leg with all the [other colours](https://en.wikipedia.org/wiki/List_of_student_boilersuit_colours#Faculty_of_Engineering_(LTH),_Lund_University). The most elusive is the archectural blazer arm piece and fire engineering leg piece. The reason for this is that there are not a lot of archecture students and rumour says fire engineer's coveralls are fireproof and they actually need it for their courses.
 
 
+You might also need a suit, which brings us to the next mini section: Sittning!
+
+#### Sittning
+
+A sittning is basically a fancy dinner party with songs, skits, and of course, alcohol. Typically speaking, there are long tables where there is prearranged seating such that there's a checkerboard pattern of ladies and gents. Ladies are expected expected to wear dressed and well for the gents, a suit will do, but the traditional Swedish way of doing it is a frack (white tie or penguin suit as I like to call it). This is something that really isn't seen outside of Scandanavia and is what you see at the Nobel prize or at magic shows.
+
+Each and every sittning will be differemt, but overall, there will be a lot of singing, toasts, and gykels. I'll let you figure out what that last thing is. At this point, I would like to say that I was very fortunate to be in the F-Guild where they had a full English sittnings specifically to accomodate the international students.
 
 
- It's a crazy, high production value month of events, bunding, and fun.
+Overll, it's a crazy, high production value month of events, bunding, and fun. Speaking of fun, the next section is about Nations!
+
+### Nations
+
+Nations are also another specialty, very specific to Sweden. There really isn't an equivalent to nations in Canada, and the closest thing I can compare it to would be houses in Harry Potter. Each nation is a social club of sorts that offer different activities such as meetups, parties, and sports events to it's members.
+
+In Lund, there are 13 nations in total:
+
+* Östgöta Nation
+* Västgöta Nation
+* Smålands Nation
+* Lunds Nation
+* Malmö Nation
+* Helsingborgs-Landskrona Nation
+* Sydskånska Nationen
+* Kristianstads Nation
+* Blekingska Nationen
+* Göteborgs Nation
+* Hallands Nation
+* Kalmar Nation	
+* Wermlands Nation
+
+Each of them has their own particular "personality", which you can find out on their [website](https://www.studentlund.se/nationer/) or more accurately through word of mouth. There is generally a nations fair at the beginning of the term, where all the nations promote themselves and try to recruit new people. It is important to note that although it is mandatory to join one of the 12 nations, that a membership in one allows you to attend activities in all of them.
+
+The small discrepancy here comes from that fact that the [Smålands Nation](http://www.smalands.org/?lang=en) is not part of the Academic Society, so if you would like to join the Smålands Nation, you still need to joing one of the other 12.
+
+I personally joined Västgöta, which is the chill gaming cooking nation, but I ended up doing a bunch of stuff with Sydskånska. I would highly recommend volunteering at events and participating in all the activities.
+
+### Residences
+
+There are a lot of different choices to residences in Lund, each with their own unique characteristics. Each floor in a residences is generally referred to as a **korridor**, with most residences having 14-16 rooms per korridor with shared kitchen area and ensuite bathrooms. If you were an engineering student, Delphi and Sparta are the closest residences to LTH buildings. I'm a little biased by I would definitely suggest to apply for Delphi. I was lucky enough to stay at one of the special korridors in Delphi, which were 6 people instead of 14 per korridor and they were all super friendly. Swedish people can be shy at first, but if you're open to talk, they will definitely oblige.
 
 
 ## The Culture
